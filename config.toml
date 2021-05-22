@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Website diza"
+theme = "diza"
+summaryLength = 10
+paginate = 2
+[params]
+Description = "Website personal Hamzah"

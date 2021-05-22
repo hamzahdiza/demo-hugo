@@ -1,0 +1,10 @@
+html,
+body {
+  height: 100%;
+  background-color: black;
+}
+
+.container {
+  min-height: 100%;
+  position: relative;
+}
